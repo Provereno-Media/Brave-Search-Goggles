@@ -1,7 +1,7 @@
 ! name: Russian Social Networks & Forums
 ! description: Prioritizes Russian social media, forums, video platforms, and MAX messenger analytics tools for OSINT and SOCMINT research. Boosts VK, OK.ru, Telegram, Rutube, TenChat, Dzen, Mail.ru, Kinopoisk, LiveJournal, Pikabu, Fishki, and MAX ecosystem catalogs.
 ! public: true
-! author: Pavel Pogoda Bannikov
+! author: Pavel Pogoda Bannikov | Provereno Media
 ! avatar: #1a6bbf
 
 $boost=10,site=vk.com
